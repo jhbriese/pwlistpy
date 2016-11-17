@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Title:        pwListPy
 # Author:       Jan-Hendrik Briese
-# License:      ToDo
+# License:      MIT
 # Description:  Easy create Password Lists with custom strength
 import os, sys, getopt, random
 version = '0.1alpha'
